@@ -7,7 +7,7 @@ Algoritmo ejercicioConstanteVariableAula
 	CANT_SILLAS = 40;
 	
 	definir cantParticipantes Como Entero;
-	cantAlumnos = 0;
+	cantParticipantes = 0;
 	
 	definir cantExpositores Como Entero;
 	cantExpositores = 0;
