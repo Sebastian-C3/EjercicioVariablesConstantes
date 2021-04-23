@@ -1,4 +1,4 @@
-Algoritmo ejercicioConstanteVariableEntero
+Algoritmo ejercicioConstanteVariableAula
 	
 	definir CANT_MESAS Como Entero;
 	CANT_MESAS = 20;
