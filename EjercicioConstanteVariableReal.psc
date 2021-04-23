@@ -1,7 +1,7 @@
 Algoritmo ejercicioConstanteVariableReal
 	
 	definir LIMITE_TARJETA_MAX Como Real;
-	LIMITE_TARJETA = 10000.00;
+	LIMITE_TARJETA_MAX = 10000.00;
 	
 	definir LIMITE_TARJETA_MIN como real;
 	LIMITE_TARJETA_MIN = 0.00;
